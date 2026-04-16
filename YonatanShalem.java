@@ -1,7 +1,7 @@
 public class YonatanShalem {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
-            System.out.println("Yonatan Shalem");
+            System.out.println("I love to play basketball");
         }
     }
 }
